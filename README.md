@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @annazamyrovska
+- 👀 I’m interested in a wide range of topics, including software development, web development, and backend
+- 🌱 I’m currently learning Python, Django, acquiring skills in Docker, SQLite, GIT, and so on.
+- 💞️ I’m looking to collaborate on projects related to web applications and websites
+- 📫 How to reach me annazamirovskaya@gmail.com
